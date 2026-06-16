@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+/.idea/.gitignore
+/.idea/image-studio.iml
+/.idea/modules.xml
+/.idea/vcs.xml
